@@ -48,6 +48,11 @@
     "url": "https://github.com/d2-projects/oh-my-frontend-release.git"
   },
   "license": "MIT",
+  "author": {
+    "name": "CNine",
+    "email": "cnine229@gmail.com",
+    "url": "https://github.com/Aysnine"
+  },
   "release": {
     "branch": "master",
     "plugins": [
