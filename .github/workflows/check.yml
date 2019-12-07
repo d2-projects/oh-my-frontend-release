@@ -1,0 +1,19 @@
+name: Check lint & unit test & build
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - uses: bahmutov/npm-install@v1
+    - name: Check lint
+      run: npm run lint -- --no-fix --max-warnings=0
+    - name: Check unit test
+      run: npm run test:unit
+    - name: Build
+      run: npm run build
