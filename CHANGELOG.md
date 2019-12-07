@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/d2-projects/oh-my-frontend-release/compare/v1.3.6...v1.4.0) (2019-12-07)
+
+
+### Features
+
+* welcome to Night ([82f026f](https://github.com/d2-projects/oh-my-frontend-release/commit/82f026fa399270f833c85046c2b568ca2c454435))
+
 ## [1.3.6](https://github.com/d2-projects/oh-my-frontend-release/compare/v1.3.5...v1.3.6) (2019-12-07)
 
 
