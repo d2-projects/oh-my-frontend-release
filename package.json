@@ -60,7 +60,12 @@
       ],
       "@semantic-release/npm",
       "@semantic-release/git",
-      "@semantic-release/github"
+      [
+        "@semantic-release/github",
+        {
+          "githubUrl": "https://github.com/d2-projects/oh-my-frontend-release.git"
+        }
+      ]
     ]
   }
 }
