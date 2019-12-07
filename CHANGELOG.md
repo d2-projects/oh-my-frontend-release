@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.5](https://github.com/d2-projects/oh-my-frontend-release/compare/v1.3.4...v1.3.5) (2019-12-07)
+
+
+### Bug Fixes
+
+* welcome to SPACE small station, we are here ([aa5fa37](https://github.com/d2-projects/oh-my-frontend-release/commit/aa5fa376d5430ff7afe297c9bf4db5c75345a3cc))
+
 ## [1.3.4](https://github.com/d2-projects/oh-my-frontend-release/compare/v1.3.3...v1.3.4) (2019-12-07)
 
 
