@@ -47,6 +47,7 @@
     "type": "git",
     "url": "https://github.com/d2-projects/oh-my-frontend-release.git"
   },
+  "license": "MIT",
   "release": {
     "branch": "master",
     "plugins": [
