@@ -14,8 +14,8 @@
     "pre-push": "yarn run lint:strict && yarn run test:unit"
   },
   "dependencies": {
-    "core-js": "^3.4.3",
-    "vue": "^2.6.10"
+    "core-js": "^3.6.0",
+    "vue": "^2.6.11"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.6",
